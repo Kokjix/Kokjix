@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Currently, I am a mechanical engineering undergraduate at Istanbul Technical University/Turkey. I am involving in robotics projects with my project team @iturover, besides my school.
+
+- 🔭 I’m currently working on gazebo simulation for our rover and our robotic arm also our first generation drone
+- 🌱 I’m currently learning CS basics
+- 👯 I’m looking to collaborate on some cool robotics projects
+- 📫 How to reach me: baranberkbagci@gmail.com
