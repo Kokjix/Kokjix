@@ -22,4 +22,4 @@ Currently, I am a mechanical engineering undergraduate at Istanbul Technical Uni
 - 📫 How to reach me: baranberkbagci@gmail.com
 
 
-![Barans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokjix&show_icons=true&theme=tokyonight)
+![Barans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokjix&show_icons=true&theme=onedark)
