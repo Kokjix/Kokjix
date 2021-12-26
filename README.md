@@ -20,3 +20,6 @@ Currently, I am a mechanical engineering undergraduate at Istanbul Technical Uni
 - 🌱 I’m currently learning CS basics
 - 👯 I’m looking to collaborate on some cool robotics projects
 - 📫 How to reach me: baranberkbagci@gmail.com
+
+
+![Barans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokjix&show_icons=true&theme=tokyonight)
