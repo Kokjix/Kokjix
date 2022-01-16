@@ -24,4 +24,4 @@ Currently, I am a mechanical engineering undergraduate at Istanbul Technical Uni
 
 ![Barans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokjix&show_icons=true&theme=onedark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokjix&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Kokjix&style=flat-square&color=blueviolet)
