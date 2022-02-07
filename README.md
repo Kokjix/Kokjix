@@ -24,5 +24,4 @@ Currently, I am a mechanical engineering undergraduate at Istanbul Technical Uni
 
 ![Barans's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kokjix&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokjix&exclude_repo=Rover-21-ERC, STM32-Learning-Stuff, 
-Baran_Berk_Bagci_Rover_Assignment2, Moveit_Configration)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kokjix&exclude_repo=Rover-21-ERC,STM32-Learning-Stuff,Baran_Berk_Bagci_Rover_Assignment2,Moveit_Configration)](https://github.com/anuraghazra/github-readme-stats)
